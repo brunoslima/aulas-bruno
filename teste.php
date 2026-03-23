@@ -1,5 +1,5 @@
 <?php
 
-    echo "Vai Corinthians!!!";
+    echo "Vai toma no cu palmeiras!!!";
 
 ?>
